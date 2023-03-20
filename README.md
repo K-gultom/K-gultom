@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @K-gultom
 - 👀 I’m interested in programming and music
-- 🌱 I’m currently learning java programming
 - 💞️ I’m looking to collaborate on my project 
 - 📫 How to reach me you may to contact me on my gmail on mping593@gmail.com
 
