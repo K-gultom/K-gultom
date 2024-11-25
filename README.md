@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @K-gultom
 - 👀 I’m Web Developer (PHP-Laravel)
-- 💞️ Java
 - 📫 How to reach me?, You may to contact me on my gmail on mping593@gmail.com
 
 <!---
