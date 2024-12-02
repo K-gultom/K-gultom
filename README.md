@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @K-gultom
+- 👋 Hi, i'm Yehezkiel Gultom
 - 👀 I’m Web Developer (PHP-Laravel)
-- 📫 How to reach me?, You may to contact me on my gmail on mping593@gmail.com
+- 🌱 I’m currently learning Fullstack Laravel Web Developer
+- 📫 How to reach me?, yehezkielgg28@gmail.com
 
 <!---
 K-gultom/K-gultom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
