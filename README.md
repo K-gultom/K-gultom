@@ -5,7 +5,9 @@
   - 🌱 I’m currently learning Fullstack Laravel Web Developer
   - 📫 How to reach me?, yehezkielgg28@gmail.com
 --->
-<h2> Hi, I'm Kiel! <img src="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy" width="50"></h2>
+
+
+<h2> Hi, I'm Kiel! <img src="[https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2kwYndrZ3BtbTB1ODRjaDkzMXdseGltd2E1b2E0YnJleXQ1cnpnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif)" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
