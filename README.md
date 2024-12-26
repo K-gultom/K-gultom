@@ -36,7 +36,7 @@ const thai = {
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://buymeacoffee.com/yehezkielgulltom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://buymeacoffee.com/yehezkielgulltom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" target="_blank" alt="Buy Me A Coffee" width="150" ></a>
 
 
 ---
